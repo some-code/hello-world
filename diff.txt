@@ -1,0 +1,7 @@
+diff --git a/readme.txt b/readme.txt
+index ce01362..317e967 100644
+--- a/readme.txt
++++ b/readme.txt
+@@ -1 +1,2 @@
+ hello
++hello
